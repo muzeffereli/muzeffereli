@@ -44,8 +44,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muzafferali01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/muzeffereli/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/muzafferali01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-muzafferali01-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/muzeffereli/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-muzeffereli-blue?style=flat-square&logo=instagram"></a>
 <a href="muzeffer.eliyev@asoiu.edu.az"><img alt="Email" src="https://img.shields.io/badge/Email-muzeffer.eliyev@asoiu.edu.az-blue?style=flat-square&logo=gmail"></a>
 </p>
 
