@@ -1,4 +1,3 @@
-
 <h2> Hey there! I'm Muzaffer Ali.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
