@@ -1,50 +1,74 @@
-<h2> Hey there! I'm Muzaffer Ali.</h2>
+## Hi there 👋
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### <div align="center">I'm Muzaffar, Java Software Developer 👨‍💻</div>  
+  
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information Technology at ASOIU.
-- 💼 &nbsp; Working as a freelancer.
+- 🌱 I’m currently developing my Java knowledge  
+  
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- ❓ Ask me about anything Java and related technologies  
+  
 
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&locoColor=00599C")
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- ⚡️ Fun fact: no fun  
+  
+
+<br/>  
+
+<div align="center">
+  
+## My Skill Set  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+  ### Frontend  
+  <div align="center">  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="JQuery" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" height="80" />    
+  </div>
+  </td>
+  
+<td valign="top" width=50%">
+
+  ### Backend  
+  <div align="center">  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="80" />  
+    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="80" />
+                                                                                                                                    
+  </div>
+  </td>
+</table>  
+
+</div>  
+
+<br/>  
+
+## Connect with me  
+  <a href="https://github.com/MuzafferAliyev" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/muzafferali01/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  
+<br/>  
 
 
-<br/>
+## Github Stats  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafferAliyev" align="right" /></div>  
 
-<a href="https://github.com/MuzafferAliyev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuzafferAliyev&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafferAliyev&theme=buefy&layout=compact" />
-</a>
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=MuzafferAliyev&show_icons=true&count_private=true)  
 
-<br/>
+<br/>  
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muzafferali01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-muzafferali01-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/muzeffereli/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-muzeffereli-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:muzeffereli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muzeffereli@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MuzafferAliyev&&style=flat-square" align="center" />
+</div>
