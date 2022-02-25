@@ -62,7 +62,7 @@
 ## Github Stats  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzeffereli" align="right" /></div>  
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=MuzafferAliyev&show_icons=true&count_private=true)  
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=muzeffereli&show_icons=true&count_private=true)  
 
 <br/>  
 
