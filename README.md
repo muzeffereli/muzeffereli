@@ -49,10 +49,10 @@
 
                                                                                                                                          
 ## Connect with me  
-  <a href="https://github.com/MuzafferAliyev" target="_blank">
+  <a href="https://github.com/muzeffereli" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/muzafferali01/" target="_blank">
+  <a href="https://www.linkedin.com/in/muzeffereli/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   
@@ -60,7 +60,7 @@
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafferAliyev" align="right" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzeffereli" align="right" /></div>  
 
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=MuzafferAliyev&show_icons=true&count_private=true)  
 
