@@ -3,7 +3,7 @@
 ### <div align="center">I'm Muzaffar, Java Software Developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently developing my Java knowledge  
+- 🌱 I’m currently working as Backend Developer  
   
 
 - ❓ Ask me about anything Java and related technologies  
@@ -47,6 +47,7 @@
 
 <br/>  
 
+                                                                                                                                         
 ## Connect with me  
   <a href="https://github.com/MuzafferAliyev" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
